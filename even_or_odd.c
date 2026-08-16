@@ -1,3 +1,4 @@
+/*Write a program to input an integer and check whether it is even or odd using conditional statement*/
 #include <stdio.h>
 int main() {
     int number;
