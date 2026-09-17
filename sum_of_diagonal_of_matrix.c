@@ -1,1 +1,1 @@
-//Find the sum of main diagonal elements for a square matrix.s
+//Find the sum of main diagonal elements for a square matrix.
